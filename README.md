@@ -9,4 +9,4 @@ result : https://wandb.ai/thornrampai-t-kasetsart-university/YOLOR/reports/Resul
 yolo77
 - 20 epochs
 - lr0 = 0.001
-- weigth_decay = 0.001
+- weigth_decay = 0.0001
